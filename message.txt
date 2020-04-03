@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+Have a great weekend!
+
+Yours Sincerely,
+Sima Najafi
